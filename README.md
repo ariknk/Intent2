@@ -1,5 +1,5 @@
 ## Intent2
-* id.sch.smktelkom_mlg.learn.intent2
+
 
 ## Identitas
 * Nama  : Arik Nur Khoiriyah
@@ -10,9 +10,9 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i68.tinypic.com/23iz8xw.jpg" width="350"/>
+  <img src="http://i68.tinypic.com/23iz8xw.jpg" width="350"/> <br>
   <img src="http://i64.tinypic.com/nl3pr8.jpg" width="350"/>
-</p>
+</p><br>
 <p align="center">
   <img src="http://i64.tinypic.com/2nsox36.jpg" width="350"/>
 </p>
